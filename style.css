@@ -2,8 +2,8 @@ body{
     color: #fff;
     background-color: #303030;
 }
-container{
+#container{
+    width: 1000px;
     margin-left: auto;
     margin-right: auto;
-    width: 1000px;
 }
