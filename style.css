@@ -131,3 +131,15 @@ body {
 .tw:hover {
 	background-color: #2084c2;
 }
+
+a.tilelink{
+	display: block;
+	width: 230px;
+	height: 142px;
+	color: #ffff;
+	text-decoration: none;
+}
+a.tilelinkhtml5{
+	color: #ffff;
+	text-decoration: none;
+}
