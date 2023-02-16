@@ -5,3 +5,6 @@ const year = today.getFullYear();
 const hour = today.getHours();
 const minuts = today.getMinutes();
 const second = today.getSeconds();
+
+
+document.getElementById("zegar").innerHTML = day+"/"+month+"/"+year+" | "+hour+":"+minuts+":"+second 
